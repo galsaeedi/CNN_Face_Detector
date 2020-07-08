@@ -4,4 +4,4 @@ CNN based face detector using opencv and dlib library .
 
 <h5>Confusion Matrix of Face Detection with Convectional neural network (CNN) with WIDER dataset :</h5>
 ACC: 91.325%
-Hamming Loss: 8.675%
+<br> Hamming Loss: 8.675%
