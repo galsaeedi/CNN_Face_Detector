@@ -1,5 +1,5 @@
 # CNN_Face_Detector
-I've worked on the problem of human face detection. This repo amis to develop face detection model based on CNN face detector using opencv and dlib library .
+I've worked on the problem of human face detection. This repo amis to develop face detection model based on Convectional neural network (CNN) face detector using opencv and dlib library .
 
 ## Requirements
 <ul>
