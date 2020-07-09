@@ -28,4 +28,4 @@ I've worked on the problem of human face detection. This repo amis to develop fa
 </ul>
 
 ## Results
-<img src="imgdoc/output2.jpg">
+<img src="resultimg/output1.JPG">
